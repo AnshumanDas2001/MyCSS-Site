@@ -36,12 +36,12 @@ h3 {
 }
 .top-cloud {
   position: absolute;
-  right: 400px;
+  right: 300px;
   top: 50px;
 }
 .bottom-cloud {
   position: absolute;
-  left: 400px;
+  left: 300px;
   bottom: 300px;
 }
 .skill-row {
